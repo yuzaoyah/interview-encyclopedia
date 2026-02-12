@@ -1,5 +1,8 @@
 # 面试大典
 
+
+https://www.abelsun.tech/arch/distributed/arch-id.html
+
 环形链表
 
 https://blog.csdn.net/yuanfuli/article/details/102827396
